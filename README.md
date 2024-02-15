@@ -14,8 +14,7 @@ Soy un apasionado desarrollador frontend de Colombia, actualmente centrado en ap
 
 ### Conéctate conmigo
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-ramirezdg27-blue)](https://linkedin.com/in/ramirezdg27)
-- [![Twitter Follow](https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge)](https://twitter.com/)
-
+  
 ### Idiomas y Herramientas
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
