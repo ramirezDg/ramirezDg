@@ -1,75 +1,26 @@
-# Daniel Ramirez Gil
+<h1 align="center">Hola 👋, soy Daniel</h1>
+<h3 align="center">Un apasionado desarrollador frontend de Colombia</h3>
 
-## Objetivo
+<p align="left"> <a href=" https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" / ></a> </p>
 
-Soy un estudiante de Ingeniería en Sistemas de Información con experiencia en diseño multimedia e interfaces de usuario, enfocado en el desarrollo front-end. Mi objetivo es ampliar mis habilidades para mejorar la calidad de proyectos, transmitir ideas de manera impactante y alcanzar metas desafiantes. Me centro en abrazar nuevos desafíos, aprender constantemente y contribuir al éxito de proyectos innovadores. Aspiro a consolidar mi posición como especialista en desarrollo web, ofreciendo soluciones creativas y eficientes que proporcionen una experiencia excepcional a los usuarios.
+- 🔭 Actualmente estoy trabajando en [ramirezDg | Portofolio](https://github.com/ramirezDg/ramirezDg-app)
 
-## Habilidades
+- 🌱 Actualmente estoy aprendiendo **React, Typescript**
 
-- Mesa de Soporte Técnico
-- Soporte a Usuarios
-- React
-- JavaScript
-- TypeScript
-- Figma
-- Java SE
-- Adobe Illustrator
-- HTML
-- CSS
-- Adobe Photoshop
-- Sass
-- Linux
-- Git
+- 🤝 Estoy buscando ayuda con [UI/UX](🤝 Estoy buscando ayuda)
 
-## Educación
+- 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/ramirezDg?tab=repositories](https://github.com/ramirezDg?tab=repositories)
 
-**Ingeniería en Sistemas**
-*2022 - Actualidad*
-Universidad Santiago De Cali  
-Cali - Valle Del Cauca
+- 📫 Cómo Comuníquese conmigo **ramirezgil.daniel27@gmail.com**
 
-**Tecnología en Sistemas de Información**
-*2019 - 2022*
-Universidad Del Valle  
-Zarzal - Valle Del Cauca
+- ⚡ Dato curioso **Me encanta la impresión 3D**
 
-**Técnico en Sistemas**
-*2015 - 2018*
-SENA  
-Zarzal - Valle Del Cauca
+<h3 align="left">Conéctate conmigo:</h3>
+<p align="left">
+< a href="https://linkedin.com/in/ramirezdg27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme- generador/master/src/images/icons/Social/linked-in-alt.svg" alt="ramirezdg27" height="30" width="40" /></a> </p>
+<
 
-**Bachiller Académico**
-*2012 - 2018*
-Colegio Simón Bolívar  
-Zarzal - Valle Del Cauca
+h3 align=" left">Idiomas y herramientas:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent. com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https:// www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width= "40" altura="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https:// www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https:// www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark .svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target=" _blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master /icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US /docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt ="javascript" ancho="40" alto="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> < a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize .svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons /nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" objetivo ="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40 " altura="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone /logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank " rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" altura="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img /header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer "> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss- icon.svg" alt="viento de cola" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer "> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel ="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> < /p>
 
-## Cursos
-
-- Curso de Frontend Developer - sep. 2023
-- Curso de Java SE Orientado a Objetos - sep. 2023
-- Curso de Introducción a la Terminal y Línea de Comandos - ago. 2023
-- Curso de Introducción a Java SE - abr. 2023
-- Curso de Google Suite - oct. 2023
-
-## Experiencia Académica
-
-- Creación de interfaces de usuario
-- Diseño y desarrollo de sitios web
-- Elaboración de línea gráfica digital
-- Creación de portafolio web
-- Composición de diseños (UX/UI)
-- Gestión de bases de datos
-- Manejo de servidores (Linux/Unix)
-- Metodologías ágiles
-
-## Experiencia Laboral
-
-### Vitavi - Strategos Medical Solutions S.A.S
-**Auxiliar de Sistemas**  
-*2023 - 2024*
-
-Brindé soporte y gestión de sistemas, incluyendo la configuración, mantenimiento y actualización de equipos informáticos. Gestioné usuarios, respaldo de datos y elaboré informes. Identifiqué y resolví problemas relacionados con hardware y software, asegurando un funcionamiento eficiente de los sistemas. Proporcioné soporte en sistemas a diversas áreas internas y capacité nuevos empleados en el manejo de recursos tecnológicos.
-
----
-
-¡Bienvenido/a a mi perfil de GitHub! Estoy emocionado/a por seguir aprendiendo y contribuir a proyectos increíbles. No dudes en contactarme para colaboraciones, preguntas o simplemente para charlar sobre tecnología. ¡Vamos a construir algo genial juntos! 👋🚀
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=ramirezdg&show_icons=true&locale=en" alt="ramirezdg" /></p>
