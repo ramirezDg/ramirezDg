@@ -1,22 +1,27 @@
+<div style="display: flex" align="center">
+
+<div style=" height: 100vh; width:60%">
+  <img src="https://e0.pxfuel.com/wallpapers/560/541/desktop-wallpaper-waneella-on-twitter-pixel-art-background-art-background-anime-scenery-pixel-art-japan.jpg" alt="Imagen" width="600" style="left: 0; top: 0; height: 100%;">
+</div>
+<div style="width:40%,margin-left: 350px;"> <!-- Este margen es ligeramente mayor al ancho de la imagen para evitar que se solapen -->
+  
 # Hola 👋, soy Daniel
 
 ## Acerca de mí
 Soy un apasionado desarrollador frontend de Colombia, actualmente centrado en aprender y trabajar en proyectos emocionantes. Disfruto explorando nuevas tecnologías y mejorando mis habilidades para ofrecer soluciones creativas y eficientes.
 
 ### Proyectos
-- 🔭 Actualmente estoy trabajando en [ramirezDg | Portofolio](https://github.com/ramirezDg/ramirezDg-app)
-- 🌱 Actualmente estoy aprendiendo **React, Typescript**
-- 🤝 Estoy buscando ayuda con [UI/UX](#) (¡Me encantaría tu contribución y asesoramiento!)
-- 👨‍💻 Todos mis proyectos están disponibles en [mi repositorio](https://github.com/ramirezDg?tab=repositories)
+ 🔭 Actualmente estoy trabajando en [ramirezDg | Portofolio](https://github.com/ramirezDg/ramirezDg-app)
+ 🌱 Actualmente estoy aprendiendo **React, Typescript**
+ 🤝 Estoy buscando ayuda con [UI/UX](#) (¡Me encantaría tu contribución y asesoramiento!)
+ 👨‍💻 Todos mis proyectos están disponibles en [mi repositorio](https://github.com/ramirezDg?tab=repositories)
 
 ### Cómo contactarme
-- 📫 Puedes comunicarte conmigo por correo electrónico: [ramirezgil.daniel27@gmail.com](mailto:ramirezgil.daniel27@gmail.com)
+ 📫 Puedes comunicarte conmigo por correo electrónico: [ramirezgil.daniel27@gmail.com](mailto:ramirezgil.daniel27@gmail.com)
 
 ### Conéctate conmigo
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-ramirezdg27-blue)](https://linkedin.com/in/ramirezdg27)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-ramirezdg27-blue)](https://linkedin.com/in/ramirezdg27)
   
-<div align="center">
-
 ### Idiomas y Herramientas
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
@@ -38,8 +43,10 @@ Soy un apasionado desarrollador frontend de Colombia, actualmente centrado en ap
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/-Adobe_XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white)
 
----
+___
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31vnnr2d2vxtffxijpa2dnyy3avm&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31vnnr2d2vxtffxijpa2dnyy3avm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+</div>
 
 </div>
