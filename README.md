@@ -1,9 +1,15 @@
-<div style="display: flex" align="center">
+<div style="display: flex;">
 
-<div style=" height: 100vh; width:60%">
-  <img src="https://e0.pxfuel.com/wallpapers/560/541/desktop-wallpaper-waneella-on-twitter-pixel-art-background-art-background-anime-scenery-pixel-art-japan.jpg" alt="Imagen" width="600" style="left: 0; top: 0; height: 100%;">
+<!-- Columna izquierda -->
+<div style="flex: 1;">
+  
+![Imagen](https://e0.pxfuel.com/wallpapers/560/541/desktop-wallpaper-waneella-on-twitter-pixel-art-background-art-background-anime-scenery-pixel-art-japan.jpg)
+
 </div>
-<div style="width:40%,margin-left: 350px;"> <!-- Este margen es ligeramente mayor al ancho de la imagen para evitar que se solapen -->
+
+
+<!-- Columna derecha -->
+<div style="flex: 1;">
   
 # Hola 👋, soy Daniel
 
