@@ -1,15 +1,10 @@
-<div style="display: flex;">
+<div align="center">
 
-<!-- Columna izquierda -->
-<div style="flex: 1;">
+
   
-![Imagen](https://e0.pxfuel.com/wallpapers/560/541/desktop-wallpaper-waneella-on-twitter-pixel-art-background-art-background-anime-scenery-pixel-art-japan.jpg)
+![Imagen](https://e0.pxfuel.com/wallpapers/298/130/desktop-wallpaper-late-afternoon-pixel-art-1440p-resolution-background-and-2560x1440-pixel.jpg)
 
-</div>
-
-
-<!-- Columna derecha -->
-<div style="flex: 1;">
+___
   
 # Hola 👋, soy Daniel
 
@@ -53,6 +48,5 @@ ___
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31vnnr2d2vxtffxijpa2dnyy3avm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-</div>
 
 </div>
