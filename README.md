@@ -1,21 +1,16 @@
 <div align="center">
-
-
-  
 ![Imagen](https://e0.pxfuel.com/wallpapers/298/130/desktop-wallpaper-late-afternoon-pixel-art-1440p-resolution-background-and-2560x1440-pixel.jpg)
-
 ___
-  
 # Hola 👋, soy Daniel
 
 ## Acerca de mí
 Soy un apasionado desarrollador frontend de Colombia, actualmente centrado en aprender y trabajar en proyectos emocionantes. Disfruto explorando nuevas tecnologías y mejorando mis habilidades para ofrecer soluciones creativas y eficientes.
 
 ### Proyectos
- 🔭 Actualmente estoy trabajando en [ramirezDg | Portofolio](https://github.com/ramirezDg/ramirezDg-app)
- 🌱 Actualmente estoy aprendiendo **React, Typescript**
- 🤝 Estoy buscando ayuda con [UI/UX](#) (¡Me encantaría tu contribución y asesoramiento!)
- 👨‍💻 Todos mis proyectos están disponibles en [mi repositorio](https://github.com/ramirezDg?tab=repositories)
+🔭 Actualmente estoy trabajando en [ramirezDg | Portofolio](https://github.com/ramirezDg/ramirezDg-app)
+🌱 Actualmente estoy aprendiendo **React, Typescript**
+🤝 Estoy buscando ayuda con [UI/UX](#) (¡Me encantaría tu contribución y asesoramiento!)
+👨‍💻 Todos mis proyectos están disponibles en [mi repositorio](https://github.com/ramirezDg?tab=repositories)
 
 ### Cómo contactarme
  📫 Puedes comunicarte conmigo por correo electrónico: [ramirezgil.daniel27@gmail.com](mailto:ramirezgil.daniel27@gmail.com)
