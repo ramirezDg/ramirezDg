@@ -36,5 +36,6 @@ Soy un apasionado desarrollador frontend de Colombia, actualmente centrado en ap
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/-Adobe_XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white)
 
-### Estadísticas
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ramirezdg&show_icons=true&locale=en)
+___
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31vnnr2d2vxtffxijpa2dnyy3avm&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31vnnr2d2vxtffxijpa2dnyy3avm&redirect=true)
