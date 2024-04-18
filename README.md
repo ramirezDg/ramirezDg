@@ -2,7 +2,7 @@
 
 ###
 
-<img align="left" height="400" src="https://e0.pxfuel.com/wallpapers/560/541/desktop-wallpaper-waneella-on-twitter-pixel-art-background-art-background-anime-scenery-pixel-art-japan.jpg"  />
+<img align="left" height="500" src="https://e0.pxfuel.com/wallpapers/560/541/desktop-wallpaper-waneella-on-twitter-pixel-art-background-art-background-anime-scenery-pixel-art-japan.jpg"  />
 
 ###
 
@@ -39,11 +39,19 @@
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31vnnr2d2vxtffxijpa2dnyy3avm&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=31vnnr2d2vxtffxijpa2dnyy3avm&redirect=true)
   
 </div>
+
+###
+###
+###
+
+
 <div align="center">
   
-  <br clear="both">
+  <img src="https://github-readme-stats.vercel.app/api?username=ramirezDg&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
 
-  <img src="https://raw.githubusercontent.com/ramirezDg/ramirezDg/output/snake.svg" alt="Snake animation" />
+___
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramirezDg&radius=16&theme=react&area=false&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
   
 </div>
 
