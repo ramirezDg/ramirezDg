@@ -10,7 +10,10 @@
 
 ###
 
-<p align="left">I am a passionate frontend developer from Colombia, currently focused on learning and working on exciting projects. I enjoy exploring new technologies and improving my skills to offer creative and efficient solutions.</p>
+<p align="left">
+  I am a passionate frontend developer from Colombia, currently focused on learning and working on exciting projects. I enjoy exploring new technologies and improving my skills to offer creative and efficient solutions.<br/><br/>
+  I've had experiences in backend development and logical solutions for API management and their interconnections with databases.
+</p>
 
 ###
 
@@ -21,15 +24,17 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
 ###
@@ -41,18 +46,13 @@
 </div>
 
 ###
-###
-###
-
 
 <div align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=ramirezDg&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
 
-___
+---
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramirezDg&radius=16&theme=react&area=false&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
+<img src="https://raw.githubusercontent.com/ramirezDg/ramirezDg/output/snake.svg" alt="Snake animation" />
   
 </div>
-
-###
