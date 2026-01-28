@@ -11,8 +11,9 @@
 ###
 
 <p align="left">
-  I am a passionate frontend developer from Colombia, currently focused on learning and working on exciting projects. I enjoy exploring new technologies and improving my skills to offer creative and efficient solutions.<br/><br/>
-  I've had experiences in backend development and logical solutions for API management and their interconnections with databases.
+  I am a Junior Full Stack Developer from Colombia and a Systems Engineering student, with hands-on experience building and maintaining software features in collaborative projects. I work with clean, well-documented code, debugging, and basic testing to ensure reliable and functional applications.
+<br/>
+My main focus is on frontend development, while actively strengthening my backend skills, including API logic and integration with databases. I am driven by continuous learning, teamwork, and applying best practices to deliver scalable and efficient solutions.
 </p>
 
 ###
