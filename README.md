@@ -42,14 +42,6 @@ I value clean code, good documentation, and continuous learning. I enjoy collabo
 
 ---
 
-### 📊 Stats
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramirezDg&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="GitHub stats" />
-</div>
-
----
-
 ### 🎧 Currently listening to
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vnnr2d2vxtffxijpa2dnyy3avm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
