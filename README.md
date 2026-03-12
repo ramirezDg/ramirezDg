@@ -1,54 +1,55 @@
-<h2 align="left">Hi 👋! My name is Daniel and I'm a Front-end Dev</h2>
-
-###
-
-<img align="left" height="500" src="https://e0.pxfuel.com/wallpapers/560/541/desktop-wallpaper-waneella-on-twitter-pixel-art-background-art-background-anime-scenery-pixel-art-japan.jpg"  />
-
-###
-
-<h3 align="left">About Me</h3>
-
-###
+<h2 align="left">👋 Hi, I'm Daniel — Full Stack Developer</h2>
 
 <p align="left">
-  I am a Junior Full Stack Developer from Colombia and a Systems Engineering student, with hands-on experience building and maintaining software features in collaborative projects. I work with clean, well-documented code, debugging, and basic testing to ensure reliable and functional applications.
-<br/>
-My main focus is on frontend development, while actively strengthening my backend skills, including API logic and integration with databases. I am driven by continuous learning, teamwork, and applying best practices to deliver scalable and efficient solutions.
+  Systems Engineering student &nbsp;·&nbsp; Colombia 🇨🇴 &nbsp;·&nbsp; Frontend-focused
 </p>
 
-###
+---
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+<img align="right" height="420" src="https://e0.pxfuel.com/wallpapers/560/541/desktop-wallpaper-waneella-on-twitter-pixel-art-background-art-background-anime-scenery-pixel-art-japan.jpg" />
+
+### About me
+
+I'm a junior full stack developer with hands-on experience building and maintaining web applications. My focus is on crafting clean, readable frontends while steadily growing my backend skills — from REST API design to database integration.
+
+I value clean code, good documentation, and continuous learning. I enjoy collaborative projects and applying best practices to build things that actually work.
+
+<br clear="right"/>
+
+---
+
+### 🛠 Tech stack
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="JavaScript" title="JavaScript" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="TypeScript" title="TypeScript" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="React" title="React" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="Node.js" title="Node.js" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="36" alt="NestJS" title="NestJS" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="36" alt="Laravel" title="Laravel" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="36" alt="PHP" title="PHP" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="36" alt="PostgreSQL" title="PostgreSQL" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" alt="MySQL" title="MySQL" />
 </div>
 
-###
+---
 
-<div align="center">
-  
- [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vnnr2d2vxtffxijpa2dnyy3avm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-  
+### 📊 Stats
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ramirezDg&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="GitHub stats" />
 </div>
 
-###
+---
 
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=ramirezDg&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-</div>
+### 🎧 Currently listening to
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vnnr2d2vxtffxijpa2dnyy3avm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
