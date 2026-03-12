@@ -10,9 +10,11 @@
 
 ### About me
 
-I'm a junior full stack developer with hands-on experience building and maintaining web applications. My focus is on crafting clean, readable frontends while steadily growing my backend skills — from REST API design to database integration.
+Systems Engineering student and junior full stack developer focused on building maintainable web applications.
 
-I value clean code, good documentation, and continuous learning. I enjoy collaborative projects and applying best practices to build things that actually work.
+My main experience is working with Laravel, REST APIs, and database-driven systems, while also developing clean and responsive frontends. I enjoy improving backend architecture, learning better development practices, and writing code that is readable, scalable, and well documented.
+
+I'm passionate about continuous learning, open-source tools, Linux environments, and improving development workflows — always exploring new technologies and looking for opportunities to grow as a developer.
 
 <br clear="right"/>
 
