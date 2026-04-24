@@ -1,49 +1,70 @@
-<h2 align="left">👋 Hi, I'm Daniel — Full Stack Developer</h2>
+👋 Hi, I'm Daniel — Full Stack Developer
 
 <p align="left">
-  Systems Engineering student &nbsp;·&nbsp; Colombia 🇨🇴 &nbsp;·&nbsp; Frontend-focused
+  Systems Engineering Student @ UTP &nbsp;·&nbsp; Colombia 🇨🇴 &nbsp;·&nbsp; PHP / Laravel · TypeScript · React
 </p>
 
 ---
 
-<img align="right" height="420" src="https://e0.pxfuel.com/wallpapers/560/541/desktop-wallpaper-waneella-on-twitter-pixel-art-background-art-background-anime-scenery-pixel-art-japan.jpg" />
-
 ### About me
 
-Systems Engineering student and junior full stack developer focused on building maintainable web applications.
+Junior Full Stack Developer with hands-on experience building production Laravel
+applications, REST APIs, and database-driven systems for real clients.
 
-My main experience is working with Laravel, REST APIs, and database-driven systems, while also developing clean and responsive frontends. I enjoy improving backend architecture, learning better development practices, and writing code that is readable, scalable, and well documented.
+Currently studying Systems Engineering while working on projects involving
+queue-based PDF generation, Excel report automation with PhpSpreadsheet,
+role-based access control with Spatie Permission, and CentOS server deployments.
 
-I'm passionate about continuous learning, open-source tools, Linux environments, and improving development workflows — always exploring new technologies and looking for opportunities to grow as a developer.
+I write clean, documented code, care about backend architecture, and enjoy the
+full stack — from PostgreSQL schema design to Angular/React frontends.
+Always learning, always building.
 
-<br clear="right"/>
+Open to junior/mid roles, freelance projects, and open-source collaboration.
 
 ---
 
 ### 🛠 Tech stack
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="JavaScript" title="JavaScript" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="TypeScript" title="TypeScript" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="React" title="React" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="Node.js" title="Node.js" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="36" alt="NestJS" title="NestJS" />
-  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="36" alt="Laravel" title="Laravel" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="36" alt="PHP" title="PHP" />
   <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="TypeScript" title="TypeScript" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="JavaScript" title="JavaScript" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="React" title="React" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="36" alt="Angular" title="Angular" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="36" alt="PostgreSQL" title="PostgreSQL" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" alt="MySQL" title="MySQL" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="36" alt="Linux" title="Linux" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="Git" title="Git" />
 </div>
 
 ---
 
-### 🎧 Currently listening to
+### 📊 GitHub stats
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vnnr2d2vxtffxijpa2dnyy3avm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramirezDg&show_icons=true&theme=transparent&hide_border=true&count_private=true)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramirezDg&layout=compact&theme=transparent&hide_border=true)
+
+---
+
+### 📫 Contact
+
+- LinkedIn: [linkedin.com/in/TU-USUARIO](https://linkedin.com/in/TU-USUARIO)
+- Email: tu@email.com
+
+---
+
+### ⚡ Currently
+
+- Working on Laravel production apps
+- Studying Systems Engineering at INTEP
