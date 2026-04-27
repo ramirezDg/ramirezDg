@@ -63,8 +63,6 @@ contributing not just code, but thoughtful engineering.
 ### 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramirezDg&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="160" />
-  &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramirezDg&layout=compact&theme=transparent&hide_border=true" height="160" />
 </p>
 
