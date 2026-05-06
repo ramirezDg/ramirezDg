@@ -59,15 +59,6 @@ contributing not just code, but thoughtful engineering.
 
 ---
 
-<!-- STATS -->
-### 📊 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramirezDg&layout=compact&theme=transparent&hide_border=true" height="160" />
-</p>
-
----
-
 <!-- CURRENTLY -->
 ### ⚡ Currently
 
